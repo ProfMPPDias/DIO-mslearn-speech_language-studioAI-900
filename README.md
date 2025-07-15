@@ -42,7 +42,7 @@ O serviço de Speech de IA do Azure transcreve fala em texto e texto em fala aud
 > ![Analise de sentimentos](https://github.com/skyzinha-chan/mslearn-speech_language-studioAI-900/blob/main/prints/analise%20de%20sentimentos.jpeg)
 
 ***
-Talita Mendonça Marquês
+Marcos Paulo Pereira Dias
 ***
 
 
